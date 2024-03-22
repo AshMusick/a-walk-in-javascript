@@ -369,3 +369,8 @@ composeRight(
 - [JavaScript Function Composition, Currying, and Partial Application](https://medium.com/wdstack/javascript-function-composition-currying-and-partial-application-5a04107530ee)
 - [Curry or Partial Application?](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8)
 - [Creating partially applied functions in Javascript](https://codeburst.io/creating-partially-applied-functions-in-javascript-1f623a56d055)
+
+***
+[Go back to DAY 11](/day_11.md)
+***
+[Back to main page](https://github.com/thinkb4/a-walk-in-javascript/tree/master#day-12)

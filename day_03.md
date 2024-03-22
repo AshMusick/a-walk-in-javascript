@@ -188,3 +188,8 @@ Let's concentrate on the [built-in](https://developer.mozilla.org/en-US/docs/Web
 ### Why aren't we talking about `this` yet?
 
 Simply because `this` is not an object! and it's not about objects, it's about bindings, context, and function calls. We'll talk about `this` on [day 7](day_07.md) after learning functions, execution context and scope which are prerequisites to understand what `this` is and how it works.
+
+***
+[Go back to DAY 2](/day_02.md) or [Go next to DAY 4](/day_04.md)
+***
+[Back to main page](https://github.com/thinkb4/a-walk-in-javascript/tree/master#day-3)

@@ -168,3 +168,8 @@ Now open your terminal.
 3. Type `npm run test:watch`, this will start running your tests every time you make a change.
 
 **Our task is to make ALL our DAY 5 tests pass ;)**
+
+***
+[Go back to DAY 4](/day_04.md) or [Go next to DAY 6](/day_06.md)
+***
+[Back to main page](https://github.com/thinkb4/a-walk-in-javascript/tree/master#day-5)

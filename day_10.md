@@ -149,3 +149,8 @@ We won't get deep into them as that's not the scope of this course, but at least
 - [JavaScript V8 Engine Explained](https://hackernoon.com/javascript-v8-engine-explained-3f940148d4ef) by Kadishay
 - [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e) by Alexander Zlatkov
 - [Understanding How the Chrome V8 Engine Translates JavaScript into Machine Code](https://www.freecodecamp.org/news/understanding-the-core-of-nodejs-the-powerful-chrome-v8-engine-79e7eb8af964/) by Mayank Tripathi
+
+***
+[Go back to DAY 9](/day_09.md) or [Go next to DAY 11](/day_11.md)
+***
+[Back to main page](https://github.com/thinkb4/a-walk-in-javascript/tree/master#day-10)
