@@ -74,7 +74,7 @@ Thankfully we have two invaluable resources to finally understand the event loop
 
 Let's take a look at a [general definition of callback on Wikipedia](https://en.wikipedia.org/wiki/Callback_(computer_programming))
 
-Here an simplified example of callback you might have used but now you'll know better what it does.
+Here is a simplified example of callback you might have used but now you'll understand more about what it is doing.
 
 ```javascript
 setTimeout( () => console.log(`I'm running late...er`), 1000 );
